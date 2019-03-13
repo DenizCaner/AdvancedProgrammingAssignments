@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "edacaner_Caner_Eda_Deniz_HW8", "edacaner_Caner_Eda_Deniz_HW8\edacaner_Caner_Eda_Deniz_HW8.vcxproj", "{B13CA966-FD14-4E3D-A662-2E9C4DDD5CB5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B13CA966-FD14-4E3D-A662-2E9C4DDD5CB5}.Debug|Win32.ActiveCfg = Debug|Win32
+		{B13CA966-FD14-4E3D-A662-2E9C4DDD5CB5}.Debug|Win32.Build.0 = Debug|Win32
+		{B13CA966-FD14-4E3D-A662-2E9C4DDD5CB5}.Release|Win32.ActiveCfg = Release|Win32
+		{B13CA966-FD14-4E3D-A662-2E9C4DDD5CB5}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

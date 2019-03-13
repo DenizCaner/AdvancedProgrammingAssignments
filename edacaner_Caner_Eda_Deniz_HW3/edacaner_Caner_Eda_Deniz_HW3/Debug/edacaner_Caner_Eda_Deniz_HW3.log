@@ -1,0 +1,18 @@
+﻿Build started 09.03.2016 18:18:09.
+     1>Project "D:\Users\SUUSER\Documents\Visual Studio 2012\Projects\edacaner_Caner_Eda_Deniz_HW3\edacaner_Caner_Eda_Deniz_HW3\edacaner_Caner_Eda_Deniz_HW3.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D "WIN32" /D _DEBUG /D _CONSOLE /D "_UNICODE" /D "UNICODE" /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt edacaner_Caner_Eda_Deniz_HW3.cpp wordList.cpp
+         wordList.cpp
+         edacaner_Caner_Eda_Deniz_HW3.cpp
+         Generating Code...
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\Users\SUUSER\Documents\Visual Studio 2012\Projects\edacaner_Caner_Eda_Deniz_HW3\Debug\edacaner_Caner_Eda_Deniz_HW3.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\Users\SUUSER\Documents\Visual Studio 2012\Projects\edacaner_Caner_Eda_Deniz_HW3\Debug\edacaner_Caner_Eda_Deniz_HW3.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\Users\SUUSER\Documents\Visual Studio 2012\Projects\edacaner_Caner_Eda_Deniz_HW3\Debug\edacaner_Caner_Eda_Deniz_HW3.lib" /MACHINE:X86 Debug\edacaner_Caner_Eda_Deniz_HW3.obj
+         Debug\prompt.obj
+         Debug\strutils.obj
+         Debug\wordList.obj
+         edacaner_Caner_Eda_Deniz_HW3.vcxproj -> D:\Users\SUUSER\Documents\Visual Studio 2012\Projects\edacaner_Caner_Eda_Deniz_HW3\Debug\edacaner_Caner_Eda_Deniz_HW3.exe
+     1>Done Building Project "D:\Users\SUUSER\Documents\Visual Studio 2012\Projects\edacaner_Caner_Eda_Deniz_HW3\edacaner_Caner_Eda_Deniz_HW3\edacaner_Caner_Eda_Deniz_HW3.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:05.55
